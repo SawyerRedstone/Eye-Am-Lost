@@ -13,3 +13,5 @@ Finally, the eye can relax.
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/47250827/189784358-d096fdf2-f429-4406-9a3b-7fd1cd7f7320.png">
 
 I made this project initially to practice audio visualization. When I learned that audio can be visualized in a radial graph, I thought it would be really cool to make the graph be the iris of an eye. I chose to make the pupil get narrower as it turns to give the impression of the two dimentional eye rotating in a 3D space. I'm really proud of how it came out!
+
+The song I used is Cycles from https://audionautix.com/.
